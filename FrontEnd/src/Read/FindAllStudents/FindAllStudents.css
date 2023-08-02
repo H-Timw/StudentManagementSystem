@@ -1,0 +1,9 @@
+table.table-students, table.table-students thead, table.table-students tbody{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+table.table-students th, table.table-students td{
+  text-align: justify;
+  padding: 10px 20px;
+}
